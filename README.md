@@ -4,6 +4,15 @@ A Python-based Sales Analytics System that processes sales data, performs analyt
 
 ---
 
+## Project Overview
+
+This project simulates an end-to-end sales analytics workflow commonly used in real-world data analytics systems.  
+It demonstrates data ingestion, validation, transformation, API enrichment, and report generation using clean and modular Python code.
+
+---
+
+
+## Folder Structure
 ```
 sales-analytics-system/
 ├── data/
