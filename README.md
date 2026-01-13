@@ -39,24 +39,25 @@ python main.py
 ## What the Application Does
 
 ```bash
-  1.Reads and cleans raw sales data from a text file
-  2.Validates transactions and applies optional filters
-  3.Performs sales analysis (revenue, trends, top products, customers)
-  4.Fetches product data from an external API
-  5.Enriches sales transactions with API information
-  6.Generates output files and a detailed sales report
+  1. Reads and cleans raw sales data from a text file
+  2. Validates transactions and applies optional filters
+  3. Performs sales analysis (revenue, trends, top products, customers)
+  4. Fetches product data from an external API
+  5. Enriches sales transactions with API information
+  6. Generates output files and a detailed sales report
 ```
 
 ---
 
 ## Output Files
+After successful execution, the following files are generated automatically:
 
 ```bash
-data/enriched_sales_data.txt
-Contains sales data enriched with API product details
+* data/enriched_sales_data.txt
+  Contains sales data enriched with API product details
 
-output/sales_report.txt
-Contains a detailed sales analytics report
+* output/sales_report.txt
+  Contains a detailed sales analytics report
 ```
 
 ---
